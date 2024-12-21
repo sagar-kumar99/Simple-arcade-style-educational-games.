@@ -5,7 +5,7 @@ This project offers simple arcade-style educational games that aim to make learn
 
 ## Contract Address
 0xb5c3510493ef7e220c4ede153055bff90bd65ce6
-"C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-12-21 144236.png"
+"C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-12-21 151922.png"
 
 ## Project Vision
 The vision is to bridge the gap between education and entertainment by creating an interactive platform where users learn through play. By leveraging blockchain technology, the platform rewards users for their achievements, creating an engaging and rewarding learning environment.
